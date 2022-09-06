@@ -1,0 +1,8 @@
+.board {
+  width: 100vh;
+  height: 100vh;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0px auto;
+  /* grid-template-columns: auto auto; */
+}
